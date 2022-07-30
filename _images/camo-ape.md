@@ -1,4 +1,4 @@
 ---
-title: ape god
+title: camo ape
 caption: derpy ape series
 ---
